@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+<img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%" />
 
 Some things about me, let's get started:
 
