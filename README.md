@@ -36,12 +36,11 @@ Languages and Tools:
 
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue "VsCode")
 
-<p align="left">
-</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="enahue" /> <br>  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=enahue&show_icons=true&theme=tokyonight" alt="enahue" />  <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&show_icons=true&theme=tokyonight" alt="enahue" />
+![Erwin Nahue's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enahue\&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
+![Erwin Nahue's GitHub stats](https://github-readme-stats.vercel.app/api?username=enahue\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Erwin Nahue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 <!--
