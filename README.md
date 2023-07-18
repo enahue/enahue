@@ -37,10 +37,10 @@ Languages and Tools:
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue "VsCode")
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="enahue" />  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=enahue&show_icons=true&theme=tokyonight" alt="enahue" />  
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&show_icons=true&theme=tokyonight" alt="enahue" />
 </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="enahue" /> <br>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=enahue&show_icons=true&theme=tokyonight" alt="enahue" />  <br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&show_icons=true&theme=tokyonight" alt="enahue" />
 
 
 
