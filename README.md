@@ -38,9 +38,9 @@ Languages and Tools:
 
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=enahue&show_icons=true&theme=tokyonight" alt="enahue" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enahue&layout=donut-vertical&theme=tokyonight" alt="enahue" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&show_icons=true&theme=tokyonight" alt="enahue" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="enahue" />
+
 </p>
 
 
