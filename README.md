@@ -46,7 +46,7 @@ Languages and Tools:
 
 ![Erwin Nahue's GitHub stats](https://github-readme-stats.vercel.app/api?username=enahue\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-![Erwin Nahue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Erwin Nahue's wakatime stats S](https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 <!--
