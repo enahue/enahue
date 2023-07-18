@@ -16,10 +16,13 @@ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp "Csharp")
+![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=C-sharp "Csharp")
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python "Python")
+![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php "Php")
 
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react "Reactjs")
 
@@ -31,8 +34,11 @@ Languages and Tools:
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql)
+
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+
 
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue "VsCode")
 
