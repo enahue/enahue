@@ -48,7 +48,11 @@ Languages and Tools:
 
 ![Erwin Nahue's wakatime stats S](https://github-readme-stats.vercel.app/api/wakatime?username=enahue\&layout=compact&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-
+<div>
+    <h1 align="left">Trophies</h1>
+    <a href="https://github.com/enahue/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=enahue&row=4&theme=onedark&no-frame=true"/>
+</div>
 <!--
 **enahue/enahue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
