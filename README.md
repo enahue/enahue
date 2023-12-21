@@ -16,13 +16,13 @@ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Oracle Cloud](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=C-sharp "Csharp")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python "Python")
-![Php](https://img.shields.io/badge/-Php-black?style=flat-square&logo=php "Php")
+![Dotnet](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet ".Net")
 
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react "Reactjs")
 
@@ -37,10 +37,11 @@ Languages and Tools:
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue "VsCode")
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-black?style=flat-square&logo=visual-studio&logoColor=blue "Visual Studio")
 
 ![Erwin Nahue's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enahue\&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
