@@ -1,6 +1,5 @@
 # Erwin Nahue - @enahue 🚀.
 ![](https://komarev.com/ghpvc/?username=enahue&style=flat-square&color=efcf32&label=@enahue+Profile+Views)
-[![wakatime](https://wakatime.com/badge/user/6134ec72-1714-49ac-b933-cf98c73e826c.svg)](https://wakatime.com/@6134ec72-1714-49ac-b933-cf98c73e826c)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
