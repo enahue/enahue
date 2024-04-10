@@ -6,7 +6,7 @@
 Some things about me, let's get started:
 
 - 🧑‍💻 I am a full stack web developer
-- 🥰 I love javascript, C#, Python and everything to do with language.
+- 🥰 I love Java, javascript, C#, Python and everything to do with language.
 - 💬 Ask me about what you want.
 - 📫 How to contact me: soon.
 - 😄 Nicknames: enahue for friends.
@@ -22,6 +22,7 @@ Languages and Tools:
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=C-sharp "Csharp")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python "Python")
 ![Dotnet](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet ".Net")
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java "Java")
 
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react "Reactjs")
 
