@@ -14,8 +14,8 @@ I am passionate about optimizing business processes and architecting enterprise 
 - ✍️ I write technical articles and share my knowledge on my personal blog, [Kodevel](https://kodevel.com).
 - 💬 Ask me about: SAP ERP implementations, SAP SD flows, SAP B1 Add-ons, or custom software integrations!
 - 📫 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-AQUI)
-  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:TU-CORREO-AQUI@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enahue)
+  [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:erwin@nahue.pe)
   [![Blog](https://img.shields.io/badge/-Kodevel-black?style=flat-square&logo=ghost&logoColor=white)](https://kodevel.com)
 
 ---
